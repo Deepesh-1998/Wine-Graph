@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wine-Graph/static/css/main.e6c13ad2.css",
+    "main.js": "/Wine-Graph/static/js/main.ae17324f.js",
+    "static/js/787.3f1d8f43.chunk.js": "/Wine-Graph/static/js/787.3f1d8f43.chunk.js",
+    "index.html": "/Wine-Graph/index.html",
+    "main.e6c13ad2.css.map": "/Wine-Graph/static/css/main.e6c13ad2.css.map",
+    "main.ae17324f.js.map": "/Wine-Graph/static/js/main.ae17324f.js.map",
+    "787.3f1d8f43.chunk.js.map": "/Wine-Graph/static/js/787.3f1d8f43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ae17324f.js"
+  ]
+}
